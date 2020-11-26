@@ -9,4 +9,5 @@
 
 #### delexcelpassword.exe 
 打包的可执行文件
-默认会遍历处理当前目录下所有Excel文件
+
+可直接运行，默认会遍历处理当前目录下所有Excel文件
